@@ -1,6 +1,3 @@
-//JavaScript code will go here
-// by Dmitri Tchemski special for sololearn.com
-
 window.onload = function() {
 
     var slider = {
